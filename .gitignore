@@ -24,3 +24,5 @@ env/
 # Temporary files
 *.log
 *.tmp
+# Dataset files
+*.csv
